@@ -1,0 +1,22 @@
+[
+  {
+    "link": { "text": "home", "url": "index.html" },
+    "title": "The dead of madara",
+    "content": "Madara is very aggressive and he is the strongest in konoha.",
+    "published" : true
+  },
+  {
+    "link": { "text": "about", "url": "about.html" },
+    "title": "Our Developer team",
+    "content": "team is very nice and we all are work on deadline",
+    "published" : true
+  },
+  {
+    "link": { "text": "contact", "url": "contact.html" },
+    "title": "this is contact page",
+    "content": "we all describe the information that you need to contact",
+    "published" : true
+  }
+]
+
+
